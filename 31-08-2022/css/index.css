@@ -6,6 +6,7 @@ no style, então aqui é somente do header para baixo */
     padding: 0;
 }
 
+/* Pirmiera Section Imagem + texto e botão */
 .section {
     width: 100%;
     height: 600px;
@@ -50,4 +51,11 @@ no style, então aqui é somente do header para baixo */
     color: rgb(239, 241, 252);
     transition: all 1.5s;
     cursor: pointer;
+}
+
+
+/* Sobre nós */ 
+.sobreNos{
+    width: 100%;
+    
 }
